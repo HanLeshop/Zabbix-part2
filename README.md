@@ -2,10 +2,8 @@
 
 ### Задание 1
 
-![CPU and RAM](CPU_and_RAM.jpeg)
-
-
-![CPU and RAM2](CPU_and_RAM.jpeg2)
+![CPUandRAM](CPU_and_RAM.jpeg)
+![CPUandRAM2](CPU_and_RAM2.jpeg)
 
 
 ---

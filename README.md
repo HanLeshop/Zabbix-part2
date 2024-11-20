@@ -18,9 +18,7 @@
 ---
 
 ### Задание 3
-
-![hosts](hosts.jpeg)
-
+![hosts](host.jpeg)
 ![hosts_latest_data](hosts_latest_data.jpeg)
 
 ![templ](templ.jpeg)
